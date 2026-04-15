@@ -1,0 +1,2 @@
+SELECT id, company_id, total_esg_risk_score, environment_risk_score, social_risk_score, governance_risk_score, controversy_level, esg_risk_percentile, esg_risk_level, risk_rank, dominant_risk_driver, environment_pct_of_total
+	FROM public.esg_scores;
